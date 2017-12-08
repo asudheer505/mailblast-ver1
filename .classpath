@@ -23,9 +23,5 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/Sudheer/Java Project/mailactivation/activation.jar"/>
-	<classpathentry kind="lib" path="D:/Sudheer/Java Project/mailactivation/mail.jar"/>
-	<classpathentry kind="lib" path="D:/Sudheer/Java Project/Cloud Mail/servlet-api.jar"/>
-	<classpathentry kind="lib" path="D:/Sudheer/Java Project/mailactivation/jsp-api-2.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
