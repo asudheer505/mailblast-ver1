@@ -15,10 +15,10 @@
 <title>Rich HTML Group Email</title>
 <script type="text/javascript">
 function bodyform(){
-	var text = document.emailForm.body.value;
+	/*var text = document.emailForm.body.value;
 	text = text.replace(/\r?\n/g, '<br />');
 	text = text.replace(" ","&nbsp;");
-	document.emailForm.body.value=text;
+	document.emailForm.body.value=text;*/
 	document.getElementById("emailForm").submit();
 	
 }

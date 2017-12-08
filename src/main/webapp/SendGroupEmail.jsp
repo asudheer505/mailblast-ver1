@@ -26,8 +26,8 @@ String status=(String)session.getAttribute("status");
 
 <br />
 <div class="form-group" align="center">
-  <label class="col-md-4 control-label"></label>
-  <div class="col-md-4">
+
+  <div class="col-md-12">
     <a href="SendBulkEmail.jsp" ><button type="button" class="btn btn-warning">Send Rich HTML Group Email<span class="glyphicon glyphicon-send"></span></button>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   	<a href="SendBulkTextEmail.jsp" ><button type="button" class="btn btn-warning">Send Text Group Email<span class="glyphicon glyphicon-send"></span></button>
